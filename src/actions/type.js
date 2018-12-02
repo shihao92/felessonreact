@@ -1,0 +1,1 @@
+export const AJAX_CALL_SUCCESS = 'AJAX_CALL_SUCCESS';
